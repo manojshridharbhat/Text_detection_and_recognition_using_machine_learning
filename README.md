@@ -35,5 +35,6 @@ Algorithm:
 
 Our algorithmic flow encompasses several critical stages. Preprocessing fine-tunes the image, while text detection identifies textual regions with unparalleled accuracy. The system then orchestrates a seamless transition from text identification to text-to-speech conversion, facilitating various practical applications.
 
-Conclusion and Future Scope
+Conclusion and Future Scope:
+
 The journey doesn't end here. Our Text Detection and Recognition System promises remarkable potential across industries, from document digitization to security applications. we envision a future where text in images is not just captured, but also understood and utilized in ways that redefine the boundaries of technology.
