@@ -1,0 +1,15 @@
+# Configuration for Text Detection and Recognition System
+camera:
+  resolution: (640, 480)  # Set the camera resolution (width, height)
+  rotation: 180           # Set camera rotation angle (0, 90, 180, 270)
+
+tesseract:
+  oem: 3                  # OCR Engine Mode (0 to 3)
+  psm: 6                  # Page segmentation mode (0 to 13)
+
+tts:
+  rate: 125               # Text-to-Speech rate
+
+output:
+  text_file: text.txt     # File to store detected text
+  audio_file: output.mp3  # Output audio file name
