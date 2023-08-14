@@ -1,0 +1,26 @@
+DEPENDENCIES
+
+opencv-python>=4.5.3
+pytesseract>=0.3.8
+nltk>=3.6.3
+pillow>=8.4.0
+pyttsx3>=2.90
+
+
+INSTALLATION
+
+To run the Text Detection and Recognition System, follow these steps:
+
+1. Clone the repository or Simply copy the code so as to easily modify it as your requirement
+2. Install project dependencies using pip
+3. Configure the project settings:
+the config.yaml file to adjust the camera, OCR, and TTS settings it also depends on the hardware that the user has used, do change it accordingly and solving through the errors that might arrive the users project model
+4. Run the application:
+5. Interact with the application:
+  Use the "Capture" button to capture an image.
+  The detected text will be saved in the 'text.txt' file.
+  Use the "Output" button to display the detected text on the GUI.
+  Use the "Sound" button to convert the detected text to speech and save it as 'output.mp3'.
+6. To exit the application, press the "Exit" button or close the application window.
+
+Feel free to customize settings and explore the code to adapt the application to your requirements.
